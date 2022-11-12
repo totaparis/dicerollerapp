@@ -33,7 +33,7 @@ function App()
   return (
     <div className="App">
       <center>
-        <h1> Bienvenido a la App de Dados</h1>
+        <h1> Bienvenido - Prueba tu suerte</h1>
         <div className='container'>
           <img className='square' src={image}></img>
           <div style={{width: '5px',display: 'inline-block'}}></div>
